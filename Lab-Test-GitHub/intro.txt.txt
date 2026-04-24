@@ -1,0 +1,2 @@
+Hello, my name is [Your Name].
+I am a student interested in learning Git and GitHub.
