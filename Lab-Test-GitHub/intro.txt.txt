@@ -1,2 +1,6 @@
 Hello, my name is [Your Name].
 I am a student interested in learning Git and GitHub.
+Skills:
+- Basic Git
+- Programming (C / Python / Java)
+- Problem Solving
